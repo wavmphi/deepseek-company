@@ -1,0 +1,2 @@
+# Ideas
+Investigate error patterns
